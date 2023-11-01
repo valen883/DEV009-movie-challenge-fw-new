@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    background: #14111C;
+    width: 1440px;
+    margin: 0;
+}
+
+select{
+    background: transparent;
+    color: white;
+    border: none;
+}
