@@ -1,7 +1,7 @@
 import imagen from '../images/icons8-pop-corn.png'
 import './header.css'
 
-function header() {
+export function Header() {
     return(
         <header className='header'>
             <img src={imagen}></img>
@@ -14,5 +14,3 @@ function header() {
     )
 }
 
-
-export default header

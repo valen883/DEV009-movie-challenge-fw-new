@@ -1,0 +1,16 @@
+.card{
+    width: 20em;
+    height: 20em;
+    border: solid black 3px;
+  margin: 10px;
+}
+
+.imagen{
+    width: 50%;
+}
+
+
+.cardContent{
+    background-color: #14111C;
+    color: white;
+}
